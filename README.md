@@ -56,7 +56,7 @@
 
 ## 🌟 Contribution Graph
 
-![snake gif](https://github.com/Juzzoooooooooo/Jayson-Nu-ez/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Juzzoooooooooo/Juzzoooooooooo/blob/output/github-snake-dark.svg)
 
 ---
 
