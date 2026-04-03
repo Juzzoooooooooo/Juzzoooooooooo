@@ -54,12 +54,6 @@
 
 ---
 
-## 🌟 Contribution Graph
-
-![snake gif](https://github.com/Juzzoooooooooo/Juzzoooooooooo/blob/output/github-snake-dark.svg)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Juzzoooooooooo
