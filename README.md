@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-🎓 Graduate of BSIT student at Marinduque State University  
+🎓 BS Information Technology Graduate from Marinduque State University 
 🔌 IoT Developer focused on embedded systems and real-time communication  
 ⚙️ Backend Developer building secure and scalable server-side applications  
 🌐 Experienced in REST APIs, MQTT/HTTP protocols, and cloud integration  
